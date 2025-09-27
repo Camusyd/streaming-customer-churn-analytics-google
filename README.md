@@ -113,7 +113,7 @@ Se utiliza un dataset de churn (ejemplo: [Telco Customer Churn - Kaggle](https:/
 
 ---
 
-### 🚀 Tecnologías utilizadas  
+### 🚀 Stack Tecnológico 
 - **Python**: pandas, numpy, seaborn, matplotlib, scikit-learn  
 - **R**: tidyverse, ggplot2, dplyr, RMarkdown  
 - **SQL**: BigQuery (o motor SQL local) para preparación de datos  
