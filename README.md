@@ -12,9 +12,13 @@ The workflow includes: **SQL, Python, and R**, applied to a real dataset to demo
 
 ## 🌍 English  
 
+### 📑 Executive Summary
+This project presents a complete data analysis workflow focused on identifying the main factors that drive subscription cancellations in a streaming service. Using the Telco Customer Churn dataset from Kaggle, the analysis combines SQL for initial data cleaning, Python for statistical exploration and modeling, and R for advanced visualizations and reporting. The goal is to demonstrate the integration of multiple tools to transform raw data into actionable insights, showcasing the skills acquired through the Google Data Analytics Professional Certificate.
+
 ### 🎯 Objective  
 The main research question is:  
 👉 **“What factors influence subscription cancellations in a streaming service?”**  
+
 
 We use a churn dataset (example: [Telco Customer Churn - Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)) and apply **SQL, Python, and R** to prepare, explore, analyze, and visualize data.  
 
@@ -72,6 +76,9 @@ El flujo de trabajo incluye: **SQL, Python y R**, aplicados a un dataset real pa
 * **Curso:** [Certificado Profesional de Análisis de Datos de Google](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 ---
+
+### 📑 Resumen Ejecutivo
+Este proyecto presenta un flujo completo de análisis de datos enfocado en identificar los principales factores que impulsan la cancelación de suscripciones en un servicio de streaming. Utilizando el dataset Telco Customer Churn de Kaggle, el análisis combina SQL para la limpieza inicial de datos, Python para la exploración estadística y modelado, y R para visualizaciones avanzadas y reportes. El objetivo es demostrar la integración de múltiples herramientas para transformar datos en bruto en hallazgos accionables, reflejando las habilidades adquiridas en el Certificado Profesional de Análisis de Datos de Google.
 
 ### 🎯 Objetivo  
 La pregunta de investigación principal es:  
