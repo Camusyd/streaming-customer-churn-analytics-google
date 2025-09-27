@@ -5,6 +5,9 @@ This project is an **End-to-End data analysis** that reflects the skills acquire
 **Google Data Analytics Professional Certificate**.  
 The workflow includes: **SQL, Python, and R**, applied to a real dataset to demonstrate proficiency in data preparation, analysis, visualization, and communication.  
 
+* **Credential Link:** [Verify My Certificate](https://www.coursera.org/account/accomplishments/specialization/RU4RN26R9YNW)
+* **Course:** [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+
 ---
 
 ## 🌍 English  
@@ -64,6 +67,9 @@ We use a churn dataset (example: [Telco Customer Churn - Kaggle](https://www.kag
 Este proyecto es un análisis **End-to-End** que refleja los aprendizajes obtenidos en el  
 **Certificado Profesional de Análisis de Datos de Google**.  
 El flujo de trabajo incluye: **SQL, Python y R**, aplicados a un dataset real para demostrar habilidades en preparación, análisis, visualización y comunicación de datos.  
+
+* **Enlace de la Credencial:** [Verificar Mi Certificado](https://www.coursera.org/account/accomplishments/specialization/RU4RN26R9YNW)
+* **Curso:** [Certificado Profesional de Análisis de Datos de Google](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 ---
 
